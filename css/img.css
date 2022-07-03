@@ -1,0 +1,58 @@
+
+.menu img {
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 16px;
+}
+
+
+.Aimg img {
+    width: 50%;
+    position: sticky;
+    left: 50%;
+    top: 50px;
+}
+@media (max-width:700px){.Aimg img
+{
+    width: 100%;
+    height: 42em;
+    position: unset;
+   
+}}
+
+@media  (max-width:650px) {.Contato img
+    {
+        width: 80px;
+        height: 28px;
+        
+    }
+}
+
+.Contato img {
+    width: 90px;
+    height: 25px;
+} 
+@media screen and (max-width:650px) {.port img {
+    display: none;}    }
+
+@media (max-width:650px){.port{
+    text-align: start;
+    width: 90%;
+}
+@media screen and (max-width:650px) {#por 
+    {position: relative;left: 9px;}
+    
+}
+
+}
+.port img {
+   
+    max-height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 66px;  
+}
+
+
+
